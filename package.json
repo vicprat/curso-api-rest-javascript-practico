@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/vicprat/curso-api-rest-javascript-practico/issues"
   },
-  "homepage": "https://github.com/vicprat/curso-api-rest-javascript-practico#readme"
+  "homepage": "https://github.com/vicprat/curso-api-rest-javascript-practico#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.2"
+  }
 }
